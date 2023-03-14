@@ -52,8 +52,11 @@ MX Switches
 <hr>
 
 ### Y o u T u b e r s
+<pre>
 [Taheha Types]()
 [Glarses]()
+[Hipyo Tech]()
+</pre>
 
 <hr>
 
