@@ -12,18 +12,23 @@ Rise was helped by the pandemic
 ### S W I T C H E S
 <pre>
 MX Switches, others
+Stems
 
-Most Popular Types
-Linear (Red)
-Tactile (Brown)
-Clicky (Blue)
+Profiles
+Linear (Red)    = No feedback
+Tactile (Brown) = Feedback/Bump
+Clicky (Blue)   = Loud
 </pre>
 
 <hr>
 
 ### P C B S
 <pre>
-
+RGB
+Wired
+Wireless
+Hot swappable
+Switch compatibility
 </pre>
 
 <hr>
@@ -49,7 +54,29 @@ Clicky (Blue)
 
 <hr>
 
+### M O U N T S
+<pre>
+
+</pre>
+
+<hr>
+
+### C O R E S
+<pre>
+Plastic
+Aluminum
+</pre>
+
+<hr>
+
 ### L U B E S
+<pre>
+
+</pre>
+
+<hr>
+
+### T O O L S
 <pre>
 
 </pre>
@@ -61,6 +88,7 @@ Clicky (Blue)
 [Taheha Types]()
 [Glarses]()
 [Hipyo Tech]()
+[Switch and Click]()
 </pre>
 
 <hr>
@@ -69,17 +97,22 @@ Clicky (Blue)
 <pre>
 Thock
 Travel
-Actuation
+Actuation force
+Stems
+Bottoming out
 Stabalizers (aka Stabs)
 Linear vs Tactile
 Foam
+Pogger
 </pre>
 
 <hr>
 
 ### T O O L S
 <pre>
-
+Lube kits
+Electric screwdriver
+Keycap puller
 </pre>
 
 <hr>
