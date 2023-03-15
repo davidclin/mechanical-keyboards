@@ -11,7 +11,12 @@ Rise was helped by the pandemic
 
 ### S W I T C H E S
 <pre>
-MX Switches
+MX Switches, others
+
+Most Popular Types
+Linear (Red)
+Tactile (Brown)
+Clicky (Blue)
 </pre>
 
 <hr>
@@ -65,11 +70,20 @@ MX Switches
 Thock
 Travel
 Actuation
-Stabalizers
+Stabalizers (aka Stabs)
 Linear vs Tactile
+Foam
 </pre>
 
 <hr>
+
+### T O O L S
+<pre>
+
+</pre>
+
+<hr>
+
 
 ### D O W N S I D E S
 <pre>
