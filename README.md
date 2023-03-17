@@ -9,7 +9,7 @@ Rise was helped by the pandemic
 
 <hr>
 
-### Keyboards
+### Keyboard Profiles
 Normal
 Low profile - have smaller keycaps
 
