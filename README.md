@@ -26,7 +26,7 @@ Clicky (Blue)   = Loud
 
 ### P C B S
 <pre>
-Programmable: via and ?
+Programmable: QMK & VIA 
 RGB
 South facing LEDs - which means it won't have issues with most key caps
 Wired
