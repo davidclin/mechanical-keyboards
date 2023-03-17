@@ -11,7 +11,9 @@ Rise was helped by the pandemic
 
 ### Keyboard Profiles
 Normal
-Low profile - have smaller keycaps
+Low
+
+Low profile keyboards are lower and jave smaller keycaps
 
 ### S W I T C H E S
 <pre>
