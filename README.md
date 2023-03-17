@@ -37,6 +37,7 @@ Switch compatibility
 <pre>
 ABS
 PVT
+Cheap PBT
 Double molded?
 </pre>
 
