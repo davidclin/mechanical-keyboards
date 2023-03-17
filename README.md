@@ -10,7 +10,7 @@ Rise was helped by the pandemic
 <hr>
 
 ### Keyboard Profiles
-Normal
+Normal/Conventional
 Low
 
 Upsides of low profile keyboard:
