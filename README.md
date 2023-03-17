@@ -11,7 +11,7 @@ Rise was helped by the pandemic
 
 ### S W I T C H E S
 <pre>
-MX Switches, others
+MX Switches, Gateron, others
 Stems: Wall, X, others
 
 Profiles
@@ -35,7 +35,8 @@ Switch compatibility
 
 ### K E Y C A P S
 <pre>
-
+PCB
+Double molded?
 </pre>
 
 <hr>
