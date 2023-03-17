@@ -41,7 +41,7 @@ Switch compatibility
 ABS
 PVT
 PBT
-Double Shot
+Double Shot ABS
 Drop.com
 </pre>
 
