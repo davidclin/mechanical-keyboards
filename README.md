@@ -76,14 +76,6 @@ Aluminum
 
 <hr>
 
-### T O O L S
-<pre>
-Diaelectric grease
-Syringe
-</pre>
-
-<hr>
-
 ### Y o u T u b e r s
 <pre>
 [Taheha Types]()
@@ -114,6 +106,8 @@ Pogger
 Lube kits
 Electric screwdriver
 Keycap puller
+Dielectric grease
+Syringe
 </pre>
 
 <hr>
