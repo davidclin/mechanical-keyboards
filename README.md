@@ -27,6 +27,7 @@ Clicky (Blue)   = Loud
 ### P C B S
 <pre>
 RGB
+South facing sockets
 Wired
 Wireless
 Hot swappable
