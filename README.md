@@ -12,7 +12,7 @@ Rise was helped by the pandemic
 ### S W I T C H E S
 <pre>
 MX: Red, Brown, Blue
-Gateron: Oil King, 
+Gateron: Oil King, Pros,
 
 Stems: Wall, X, others
 
