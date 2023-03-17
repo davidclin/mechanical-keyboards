@@ -9,6 +9,10 @@ Rise was helped by the pandemic
 
 <hr>
 
+### Keyboards
+Normal
+Low profile - have smaller keycaps
+
 ### S W I T C H E S
 <pre>
 MX: Red, Brown, Blue
