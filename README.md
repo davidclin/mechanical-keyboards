@@ -11,7 +11,9 @@ Rise was helped by the pandemic
 
 ### S W I T C H E S
 <pre>
-MX Switches, Gateron, others
+MX: Red, Brown, Blue
+Gateron: Oil King, 
+
 Stems: Wall, X, others
 
 Profiles
