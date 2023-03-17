@@ -35,7 +35,8 @@ Switch compatibility
 
 ### K E Y C A P S
 <pre>
-PCB
+ABS
+PVT
 Double molded?
 </pre>
 
