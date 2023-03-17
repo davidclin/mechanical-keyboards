@@ -11,15 +11,15 @@ Rise was helped by the pandemic
 
 ### Keyboard Profiles
 <pre>
-Normal/Conventional
-Low
+o Normal/Conventional
+o Low
 
-Upsides of low profile keyboard:
+Upsides of low profile keyboards
 o portability
 o take up less space
 o aesthetics 
 
-Downsides of low profile keyboards:
+Downsides of low profile keyboards
 o smaller keycaps
 o require special switches
 o lack of case space to mod
