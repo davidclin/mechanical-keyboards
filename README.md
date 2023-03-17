@@ -10,6 +10,7 @@ Rise was helped by the pandemic
 <hr>
 
 ### Keyboard Profiles
+<pre>
 Normal/Conventional
 Low
 
@@ -22,6 +23,9 @@ Downsides of low profile keyboards:
 o smaller keycaps
 o require special switches
 o lack of case space to mod
+</pre>
+
+<hr>
 
 ### S W I T C H E S
 <pre>
