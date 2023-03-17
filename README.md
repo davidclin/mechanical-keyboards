@@ -27,7 +27,7 @@ Clicky (Blue)   = Loud
 ### P C B S
 <pre>
 RGB
-South facing sockets
+South facing LEDs - which means it won't have issues with most key caps
 Wired
 Wireless
 Hot swappable
