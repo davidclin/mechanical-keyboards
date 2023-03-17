@@ -12,7 +12,7 @@ Rise was helped by the pandemic
 ### S W I T C H E S
 <pre>
 MX Switches, others
-Stems
+Stems: Wall, X, others
 
 Profiles
 Linear (Red)    = No feedback
