@@ -13,7 +13,15 @@ Rise was helped by the pandemic
 Normal
 Low
 
-Low profile keyboards are lower and have smaller keycaps
+Upsides of low profile keyboard:
+o portability
+o take up less space
+o aesthetics 
+
+Downsides of low profile keyboards:
+o smaller keycaps
+o require special switches
+o lack of case space to mod
 
 ### S W I T C H E S
 <pre>
