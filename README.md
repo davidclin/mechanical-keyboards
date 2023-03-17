@@ -78,7 +78,8 @@ Aluminum
 
 ### T O O L S
 <pre>
-
+Dielectric grease
+Syringe
 </pre>
 
 <hr>
