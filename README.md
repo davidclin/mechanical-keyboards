@@ -60,6 +60,12 @@ Aluminum
 
 <hr>
 
+### G A S K E T S
+<pre>
+Silicone
+Pouring
+</pre>
+
 ### F O R M   F A C T O R S
 <pre>
 60%
