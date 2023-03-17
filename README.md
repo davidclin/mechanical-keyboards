@@ -55,6 +55,7 @@ Screw-in
 
 ### P L A T E S
 <pre>
+Think "flex"
 Polycarbonate
 Aluminum
 </pre>
@@ -110,6 +111,7 @@ Aluminum
 <pre>
 Thock
 Travel
+Flex
 Actuation force
 Stems
 Bottoming out
