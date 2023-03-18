@@ -1,4 +1,4 @@
-# David Lin's Personal Mechanical Keyboards Cheatsheet
+# David Lin's Personal Mechanical Keyboards Research Notes
 
 ### Why get a mechanical keyboard?
 
