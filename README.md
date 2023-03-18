@@ -17,7 +17,7 @@ o Low
 
 Upsides of low profile keyboards
 o portability
-o take up less space
+o take up less space if traveling
 o aesthetics 
 
 Downsides of low profile keyboards
