@@ -39,6 +39,9 @@ Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Popular among gamers
 Tactile (Brown) = Feedback/Bump | Office | Productivity
 Clicky (Blue)   = Loud | Annoying to some
 
+o Popular
+Boba U4T (tactile)
+
 o Stems
 Cherry 
 Wall
