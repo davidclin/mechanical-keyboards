@@ -78,9 +78,10 @@ Screw-in
 
 ### P L A T E S
 <pre>
-Think "flex"
-Polycarbonate
-Aluminum
+o Polycarbonate
+o Aluminum
+
+Primarily related to "flex"
 </pre>
 
 <hr>
