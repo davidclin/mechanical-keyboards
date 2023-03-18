@@ -44,7 +44,7 @@ Clicky (Blue)   = Loud
 
 ### P C B S
 <pre>
-Programmable: QMK & VIA 
+Programmable: QMK/VIA 
 RGB
 South facing LEDs - which means it won't have issues with most key caps
 Wired
@@ -126,6 +126,11 @@ Krytox
 </pre>
 
 <hr>
+
+### R E S O U R C E S
+via.com
+
+
 
 ### T E R M S
 <pre>
