@@ -94,8 +94,11 @@ Pouring
 
 ### F O R M   F A C T O R S
 <pre>
+Wide range:
 60%, 65%, 75%, 100
-Depends on which keys you need or could care less about
+
+
+Really depends on which keys you need or could care less about
 
 Examples include:
 o Numpad
