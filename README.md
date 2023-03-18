@@ -29,15 +29,18 @@ o lack of case space to mod
 
 ### S W I T C H E S
 <pre>
-Cherry MX: Red, Brown, Blue
-Gateron  : Oil King, Pros,
+o Brands
+Cherry MX
+Gateron
 
-Stems: Wall, X, others
-
-Profiles
+o Profiles
 Linear (Red)    = No feedback
 Tactile (Brown) = Feedback/Bump
 Clicky (Blue)   = Loud
+
+o Stems
+Cherry 
+Wall
 </pre>
 
 <hr>
