@@ -54,6 +54,10 @@ Tip: When purchasing make sure switches are
 Stems
 o Cherry 
 o Wall
+
+Mounting
+o Plate | 3-pin
+o PCB   | 5-pin
 </pre>
 
 <hr>
@@ -87,6 +91,8 @@ Drop.com
 ### S T A B I L I Z E R S
 <pre>
 Screw-in
+Any key larger than 1 unit requires a stab
+Should be lubed!
 </pre>
 
 <hr>
