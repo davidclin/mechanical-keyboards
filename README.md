@@ -94,7 +94,14 @@ Pouring
 
 ### F O R M   F A C T O R S
 <pre>
-60%
+60%, 65%, 75%, 100
+Depends on which keys you need or could care less about
+
+Examples include:
+o Numpad
+o Number keys
+o Navigation cluster
+o Arrow keys
 </pre>
 
 <hr>
