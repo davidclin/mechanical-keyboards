@@ -70,6 +70,7 @@ o Switch compatibility
 ABS
 PVT
 PBT
+OSA Profile Double-shot PBT Keycaps
 Double Shot ABS
 Drop.com
 </pre>
