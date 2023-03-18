@@ -32,6 +32,14 @@ o ISO  (hard to find, EU)
 
 <hr>
 
+### C A S E
+o Aluminum 
+o Brass 
+o Stainless steel
+o Plastics
+o Wood
+
+
 ### S W I T C H E S
 <pre>
 Brands
@@ -122,8 +130,9 @@ Pouring
 ### F O R M   F A C T O R S
 <pre>
 Wide range:
-60%, 65%, 75%, 100
+27%, 40%, 60%, 65%, 75%, 100
 
+80% = Ten Keyless (TKL)
 
 Really depends on which keys you need or could care less about
 
