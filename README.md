@@ -3,8 +3,9 @@
 ### Why get a mechanical keyboard?
 
 <pre>
-Use everyday at work
-Rise was helped by the pandemic
+o Use everyday at work
+o Rise was helped by the pandemic
+o Because it's fun!
 </pre>
 
 <hr>
