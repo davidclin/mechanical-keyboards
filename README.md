@@ -167,4 +167,11 @@ Can be an expensive hobby<br>
 What is a holy panda?
 ```
 It's a Frankenstein switch
-````
+```
+
+
+What is a 1800 keyboard?
+```
+1800-Compact is an alternative full-size layout that has the same number of keys as a full-size keyboard in a slightly more compact arrangement. Here, the arrow keys are squished below the Enter key, while the other navigational keys go above the number pad.
+```
+
