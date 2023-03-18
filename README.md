@@ -42,6 +42,9 @@ Clicky (Blue)   = Loud | Annoying to some
 o Popular
 Boba U4T (tactile)
 
+Tip: When purchasing make sure switches are 
+     compatible with your PCB.
+
 o Stems
 Cherry 
 Wall
