@@ -33,6 +33,7 @@ o lack of case space to mod
 o Brands
 Cherry MX
 Gateron
+Kailh 
 
 o Profiles
 Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Popular among gamers
