@@ -47,13 +47,13 @@ Wall
 
 ### P C B s
 <pre>
-Programmable: QMK/VIA 
-RGB
-South facing LEDs - which means it won't have issues with most key caps
-Wired
-Wireless
-Hot swappable
-Switch compatibility
+Things to consider 
+o Programmable: QMK/VIA 
+o RGB
+o South facing LEDs - which means it won't have issues with most key caps
+o Wired/Wireless
+o Hot swappable
+o Switch compatibility
 </pre>
 
 <hr>
