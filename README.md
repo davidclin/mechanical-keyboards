@@ -72,7 +72,7 @@ o Switch compatibility
 
 ### K E Y C A P S
 <pre>
-ABS : Standard | Begin to shine after long use
+ABS : Standard | Paint can begin to wear and shine after long use
 PVT : 
 PBT
 Rubber : 
