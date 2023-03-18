@@ -199,9 +199,7 @@ It's all a matter of personal preference.
 ```
 What is a holy panda?
 ```
-```
-It's a Frankenstein switch
-```
+It's a Frankenstein switch.
 ```
 What is a 1800 keyboard layout?
 ```
