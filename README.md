@@ -72,7 +72,7 @@ o Switch compatibility
 
 ### K E Y C A P S
 <pre>
-ABS : Begin to shine after long use
+ABS : Standard | Begin to shine after long use
 PVT : 
 PBT
 Rubber : 
