@@ -155,10 +155,10 @@ Flashing your board
 Backup your layers
 
 ### Y o u T u b e r s
-[Taheha Types](https://youtu.be/1NpNygIrnaQ)
-[Glarses]()
-[Hipyo Tech]()
-[Switch and Click]()
+[Taheha Types](https://youtu.be/1NpNygIrnaQ)<br>
+[Glarses]()<br>
+[Hipyo Tech]()<br>
+[Switch and Click]()<br>
 
 <hr>
 
