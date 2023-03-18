@@ -200,7 +200,7 @@ Syringe
 
 ### D O W N S I D E S
 <pre>
-Group buys can take between monnth to years<br>
+Group buys can take between a month to years<br>
 Can be an expensive hobby<br>
 </pre>
 
