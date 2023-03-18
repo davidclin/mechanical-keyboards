@@ -65,11 +65,12 @@ o PCB   | 5-pin
 ### P C B s
 <pre>
 Things to consider 
-o Programmablity (QMK/VIA)
+o Programmablity (QMK/VIA) | Layer Mapping
 o RGB
 o South facing LEDs - which means it won't have issues with most key caps
 o Wired/Wireless
-o Hot swappable
+o Bluetooth
+o Hot swappable vs Solderable
 o Switch compatibility
 </pre>
 
@@ -101,6 +102,11 @@ Should be lubed!
 <pre>
 o Polycarbonate
 o Aluminum
+o Stainless steal
+o Brass
+o Carbon filter
+o Acrylic
+o Palm
 
 Primarily related to "flex"
 </pre>
