@@ -45,7 +45,7 @@ Wall
 
 <hr>
 
-### P C B S
+### P C B s
 <pre>
 Programmable: QMK/VIA 
 RGB
