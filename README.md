@@ -35,7 +35,7 @@ Cherry MX
 Gateron
 
 o Profiles
-Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Gaming
+Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Popular among gamers
 Tactile (Brown) = Feedback/Bump | Office | Productivity
 Clicky (Blue)   = Loud | Annoying to some
 
