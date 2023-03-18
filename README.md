@@ -156,9 +156,8 @@ o Arrow keys
 Top
 Tray
 Gasket 
-
-[See here](https://thomasbaart.nl/wp-content/uploads/2019/04/20190407_KeyboardMountingStylesCheatSheet.png)
 </pre>
+[More here](https://thomasbaart.nl/wp-content/uploads/2019/04/20190407_KeyboardMountingStylesCheatSheet.png)
 
 <hr>
 
