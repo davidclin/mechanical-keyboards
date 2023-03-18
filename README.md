@@ -29,8 +29,8 @@ o lack of case space to mod
 
 ### S W I T C H E S
 <pre>
-MX: Red, Brown, Blue
-Gateron: Oil King, Pros,
+Cherry MX: Red, Brown, Blue
+Gateron  : Oil King, Pros,
 
 Stems: Wall, X, others
 
