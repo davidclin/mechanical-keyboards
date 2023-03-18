@@ -4,6 +4,7 @@
 
 <pre>
 o Use everyday at work
+o Customize 
 o Rise was helped by the pandemic
 o Because it's fun!
 </pre>
