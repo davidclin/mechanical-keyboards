@@ -72,9 +72,10 @@ o Switch compatibility
 
 ### K E Y C A P S
 <pre>
-ABS
-PVT
+ABS : Begin to shine after long use
+PVT : 
 PBT
+Rubber : 
 OSA Profile Double-shot PBT Keycaps
 Double Shot ABS
 Drop.com
