@@ -24,6 +24,10 @@ Downsides of low profile keyboards
 o smaller keycaps
 o require special switches
 o lack of case space to mod
+
+Layouts
+o ANSI (most popular, US)
+o ISO  (hard to find, EU)
 </pre>
 
 <hr>
