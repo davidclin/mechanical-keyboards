@@ -86,13 +86,19 @@ o Switch compatibility
 
 ### K E Y C A P S
 <pre>
-ABS : Standard | Paint can begin to wear and shine after long use
-PVT : 
-PBT
-Rubber : 
+ABS    : Standard | Paint can begin to wear and shine after long use | GMK most popular
+PBT    : Withstands shine
+Rubber : Soft
 OSA Profile Double-shot PBT Keycaps
 Double Shot ABS
 Drop.com
+
+Profiles
+o cherry
+o sa
+o mt3
+o cat
+o dsa
 </pre>
 
 <hr>
@@ -201,6 +207,7 @@ Linear vs Tactile
 Foam
 Case ping (from aluminum casing)
 Pogger
+Legending
 </pre>
 
 <hr>
