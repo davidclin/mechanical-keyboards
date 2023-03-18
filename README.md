@@ -34,25 +34,26 @@ o ISO  (hard to find, EU)
 
 ### S W I T C H E S
 <pre>
-o Brands
-Cherry MX
-Gateron
-Kailh 
+Brands
+o Cherry MX
+o Gateron
+o Kailh 
+o many others!
 
-o Profiles
-Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Popular among gamers
-Tactile (Brown) = Feedback/Bump | Office | Productivity
-Clicky (Blue)   = Loud | Annoying to some
+Profiles
+o Linear (Red)    = No feedback | Smooth | Buttery | Quiet | Popular among gamers
+o Tactile (Brown) = Feedback/Bump | Office | Productivity
+o Clicky (Blue)   = Loud | Annoying to some
 
-o Popular
-Boba U4T (tactile)
+Popular
+o Boba U4T (tactile)
 
 Tip: When purchasing make sure switches are 
      compatible with your PCB.
 
-o Stems
-Cherry 
-Wall
+Stems
+o Cherry 
+o Wall
 </pre>
 
 <hr>
