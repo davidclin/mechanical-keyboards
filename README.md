@@ -48,7 +48,7 @@ Wall
 ### P C B s
 <pre>
 Things to consider 
-o Programmable: QMK/VIA 
+o Programmablity (QMK/VIA)
 o RGB
 o South facing LEDs - which means it won't have issues with most key caps
 o Wired/Wireless
