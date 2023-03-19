@@ -195,7 +195,7 @@ Backup your layers
 ### Y o u T u b e r s
 [Taheha Types](https://youtu.be/1NpNygIrnaQ)<br>
 [Glarses]()<br>
-[Hipyo Tech]()<br>
+[Hipyo Tech](https://www.youtube.com/@HipyoTech)<br>
 [Switch and Click]()<br>
 
 <hr>
