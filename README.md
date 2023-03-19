@@ -176,7 +176,7 @@ Aluminum
 
 ### L U B E S
 <pre>
-Krytox
+Krytox 205 G0
 </pre>
 
 <hr>
