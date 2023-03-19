@@ -182,11 +182,12 @@ Krytox
 <hr>
 
 ### P R O G R A M M I N G
+<pre>
 This all about key mappings!
 QMK/VIA Toolbox
 Flashing your board
 Backup your layers
-
+</pre>
 [Layers Demo](https://youtu.be/MZI4lz_toFY)
 
 <hr>
