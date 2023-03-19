@@ -32,7 +32,7 @@ o ISO  (hard to find, EU)
 
 <hr>
 
-### C A S E
+### C A S E S
 <pre>
 o Aluminum 
 o Brass 
