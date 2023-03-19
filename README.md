@@ -133,6 +133,8 @@ Silicone
 Pouring
 </pre>
 
+<hr>
+
 ### F O R M   F A C T O R S
 <pre>
 Wide range:
