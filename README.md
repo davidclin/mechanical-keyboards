@@ -33,12 +33,15 @@ o ISO  (hard to find, EU)
 <hr>
 
 ### C A S E
+<pre>
 o Aluminum 
 o Brass 
 o Stainless steel
 o Plastics
 o Wood
+</pre>
 
+<hr>
 
 ### S W I T C H E S
 <pre>
