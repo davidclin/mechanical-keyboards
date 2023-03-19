@@ -162,7 +162,7 @@ Top
 Tray
 Gasket 
 </pre>
-[More here](https://thomasbaart.nl/wp-content/uploads/2019/04/20190407_KeyboardMountingStylesCheatSheet.png)
+[Learn more here](https://thomasbaart.nl/wp-content/uploads/2019/04/20190407_KeyboardMountingStylesCheatSheet.png)
 
 <hr>
 
