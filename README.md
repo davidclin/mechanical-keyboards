@@ -175,7 +175,7 @@ Aluminum
 <hr>
 
 ### L U B E S
-Krytox 205 G
+Krytox 205 G<br>
 [Get it here](https://kineticlabs.com/lube/krytox/205-grade-0)
 
 <hr>
