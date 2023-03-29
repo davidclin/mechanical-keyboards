@@ -187,10 +187,10 @@ QMK/VIA Toolbox
 Flashing your board
 Backup your layers
 </pre>
-[QMK Tutorial](https://docs.qmk.fm/#/newbs)<p>
-[QMK Firmware](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k8_pro)<p>
+[QMK Tutorial](https://docs.qmk.fm/#/newbs)<br>
+[QMK Firmware](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k8_pro)<br>
 [VIA](https://www.caniusevia.com)<br>
-[Layers Demo](https://youtu.be/MZI4lz_toFY)
+[Layers Demo](https://youtu.be/MZI4lz_toFY)<br>
 
 <hr>
  
