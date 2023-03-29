@@ -187,7 +187,7 @@ QMK/VIA Toolbox
 Flashing your board
 Backup your layers
 </pre>
-[VIA](https://www.caniusevia.com)
+[VIA](https://www.caniusevia.com)<br>
 [Layers Demo](https://youtu.be/MZI4lz_toFY)
 
 <hr>
