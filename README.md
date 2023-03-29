@@ -219,6 +219,7 @@ Foam
 Case ping (from aluminum casing)
 Pogger
 Legending
+Device Firmware Upgrade (DFU)
 </pre>
 
 <hr>
