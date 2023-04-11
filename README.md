@@ -185,7 +185,7 @@ Activates the following by toggling to Layer03 via the RightCtrl button<br>
 o numbers in the navigation cluster | 0 uses the up arrow key<br>
 o RGB +/- by using left/right arrow keys<p>
 
-STEP 1 - Connect keyboard to USB then navigate to [VIA](https://www.caniusevia.com) | Chrome browser not supported<br>
+STEP 1 - Connect keyboard to USB then navigate to [VIA](https://www.caniusevia.com) | [Check browser compatibillity](https://caniuse.com/?search=webhid)<br>
 
 STEP 2 - Load the following file<br>
 <details>
