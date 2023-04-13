@@ -703,4 +703,13 @@ keys are squished below the Enter key,
 while the other navigational keys go above 
 the number pad.
 ```
+What's the relationship between QMK and VIA?
+```
+VIA is a feature in QMK that lets you change 
+your keymap on your keyboard without needing 
+to reflash firmware. The changes you make using 
+VIA remain persistent on the keyboard, so even 
+when you unplug and replug your keyboard back 
+in, the keymap settings still remain.
+```
 
