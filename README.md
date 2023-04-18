@@ -181,7 +181,7 @@ Krytox 205 G<br>
 <hr>
 
 ### K E Y M A P P I N G 
-Activates the following by toggling to Layer03 via the RightCtrl button<br>
+Activates the following by toggling to Layer03 via the RightAlt button<br>
 o numbers in the navigation cluster | 0 uses the up arrow key<p>
 
 
@@ -501,10 +501,10 @@ STEP 2 - Load the following file<br>
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_RALT",
+      "TG(3)",
       "KC_RGUI",
       "MO(3)",
-      "TG(3)",
+      "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
