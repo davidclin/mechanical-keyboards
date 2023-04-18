@@ -182,7 +182,7 @@ Krytox 205 G<br>
 
 ### K E Y M A P P I N G
 Activates the following by toggling to Layer 3 via the RAlt button<br>
-To use:<br>
+To use:<p>
 o Toggle the RAlt key<br>
 o Numbers will be activated in the navigation cluster<br>
 o The number zero will be activated using the up arrow key<br>
