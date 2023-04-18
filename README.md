@@ -180,9 +180,13 @@ Krytox 205 G<br>
 
 <hr>
 
-### K E Y M A P P I N G 
-Activates the following by toggling to Layer 3 via the RightAlt button<br>
-o numbers in the navigation cluster | 0 uses the up arrow key<p>
+### K E Y M A P P I N G
+Activates the following by toggling to Layer 3 via the RAlt button<br>
+To use:<br>
+o Toggle the RAlt key<br>
+o Numbers will be activated in the navigation cluster<br>
+o The number zero will be activated using the up arrow key<br>
+o Toggle the RAlt key to go back to Layer 2<p>
 
 ![KeyMapping](./images/via-mapping.gif)
 
