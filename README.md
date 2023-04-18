@@ -184,6 +184,7 @@ Krytox 205 G<br>
 Activates the following by toggling to Layer03 via the RightAlt button<br>
 o numbers in the navigation cluster | 0 uses the up arrow key<p>
 
+![KeyMapping](./images/via-mapping.gif)
 
 STEP 1 - Connect keyboard to USB then navigate to [VIA](https://www.caniusevia.com) | [Check browser compatibillity](https://caniuse.com/?search=webhid)<br>
 
