@@ -181,7 +181,7 @@ Krytox 205 G<br>
 <hr>
 
 ### K E Y M A P P I N G 
-Activates the following by toggling to Layer03 via the RightAlt button<br>
+Activates the following by toggling to Layer 3 via the RightAlt button<br>
 o numbers in the navigation cluster | 0 uses the up arrow key<p>
 
 ![KeyMapping](./images/via-mapping.gif)
