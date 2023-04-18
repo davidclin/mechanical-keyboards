@@ -182,8 +182,8 @@ Krytox 205 G<br>
 
 ### K E Y M A P P I N G 
 Activates the following by toggling to Layer03 via the RightCtrl button<br>
-o numbers in the navigation cluster | 0 uses the up arrow key<br>
-o RGB +/- by using left/right arrow keys<p>
+o numbers in the navigation cluster | 0 uses the up arrow key<p>
+
 
 STEP 1 - Connect keyboard to USB then navigate to [VIA](https://www.caniusevia.com) | [Check browser compatibillity](https://caniuse.com/?search=webhid)<br>
 
@@ -504,7 +504,7 @@ STEP 2 - Load the following file<br>
       "KC_RALT",
       "KC_RGUI",
       "MO(3)",
-      "TO(3)",
+      "TG(3)",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
@@ -608,10 +608,10 @@ STEP 2 - Load the following file<br>
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "TO(2)",
-      "RGB_RMOD",
-      "KC_DOWN",
-      "RGB_MOD"
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ]
   ],
   "encoders": []
