@@ -307,10 +307,10 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_RALT",
+      "TG(3)",
       "KC_RGUI",
       "MO(3)",
-      "TG(3)",
+      "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
