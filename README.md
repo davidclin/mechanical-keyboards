@@ -189,7 +189,7 @@ STEP 1 - Connect keyboard to USB then navigate to [VIA](https://www.caniusevia.c
 
 STEP 2 - Load the following file<br>
 <details>
-<summary>my_keychron_k8_pro_via_config.json</summary>
+<summary>k8-pro-rgb-ansi-with-numpad-mapping.json</summary>
 
 ```
 {
