@@ -1,3 +1,5 @@
+![image](https://github.com/davidclin/mechanical-keyboards/assets/6853545/c0663e4b-a92d-42c5-949a-c4b004ae2cf2)
+
 # David Lin's Personal Mechanical Keyboards Research Notes
 
 ### Why get a mechanical keyboard?
