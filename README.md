@@ -727,3 +727,4 @@ in, the keymap settings still remain.
 FN + 1 for 4 seconds         enables Bluetooth pairing mode
 FN + b                       check status of battery
 ```
+For list of more shortcut keys, see [manual](https://www.keychron.com/blogs/news/k8-key-combinations).
