@@ -720,3 +720,10 @@ when you unplug and replug your keyboard back
 in, the keymap settings still remain.
 ```
 
+<hr>
+
+### My Keychron 8 Pro Most Useful Shortcut keys
+```
+FN + 1 for 4 seconds         enables Bluetooth pairing mode
+FN + b                       check status of battery
+```
